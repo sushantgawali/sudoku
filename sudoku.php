@@ -139,7 +139,7 @@ class Sudoku {
      *
      * Checks all conditions for a valid sudoku
      *
-     * @access private
+     * @access public
      * @param none
      * @return 1 or 0
      */
